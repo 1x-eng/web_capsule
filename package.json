@@ -1,0 +1,13 @@
+{
+  "name": "web_capsule",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Pruthvi Kumar",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
